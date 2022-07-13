@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600;700&display=swap');
+.container-fluid{
+    text-align: right;
+
+    padding: 20px;
+    background-color: red ;
+    text-decoration-color: whitesmoke;
+}
+.navbar{
+	padding right: 60px;
+
+	font-family: 'Source Sans Pro', sans-serif;
+	background-color: red;
+	color: white;
+	height: 15vh;
+	text-align: right;
+	letter-spacing: 20px;
+	font-size: 20px;
+
+}
+
+.bgimage{
+	text-align: center;
+	height: 60vh;
+	font-size: 60px;
+	background: url('images/heroImage.jpeg');
+	background-size:cover;
+    position:relative;
+    background-image: url(back.png);
+
+}
+.buttons{
+    padding: 10px;
+    color: white;
+    font-size: 25px;
+    border-radius: 30px;
+
+}
+
+.buttons button{
+	background-color: blue;
+	border-radius: 25px;
+	font-size: 25px;
+	padding: 10px;
+}
+
+.container-mt-4-pt-4{
+	text-align: center;
+	padding: 40px;
+}
+ 
+ .imageAboutPage{
+	width:15vw;
+	height: 30vh;
+}
+
+.col-lg-8{
+	text-align: right;
+}
+.container-mt-4-pt-4 row-mt-4 {
+	text-align:right ;
+	padding: 20px;
+	width: 60vw;
+	height: 40vh;
+}
+.servicesText.card {
+    height: 280px;
+    cursor: pointer;
+  }
+.servicesIcon {
+    font-size: 36px;
+    text-align: center;
+    width: 100%;
+}
+.card-title {
+    text-align: center;
+}
+.card:hover .servicesIcon {
+    color: #008000;
+}
+.servicesText:hover {
+    border: 1px solid #008000;
+}
+.contact{
+	background-color: whitesmoke;
+	flex: unset;
+
+}
+.col-lg-7{
+	text-align: right;
+	padding: 40px;
+	padding-top: !important;
+	font-size: 75px;
+}
+
+
+.sidebar{
+	background-color: black;
+	text-align: left;
+	padding-bottom: 40px;
+	height: 20vh;
+}
+
+.col-sm-4{
+	text-align: center;
+	padding: 40px;
+text-decoration-color: white;
+}
+
