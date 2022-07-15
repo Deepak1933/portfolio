@@ -1,0 +1,48 @@
+.contactform{
+    font-family: 'Source Sans Pro', sans-serif;
+    padding-top: 150px;
+    padding: 0 34px;
+}
+
+.contactform h1{
+ font-family: 'Roboto', sans-serif;
+
+ padding: 15px;
+
+}
+.contactform form div{
+    padding: 10px 0;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+}
+#emailHelp{
+    font-size: 15px;
+    color: midnightblue;
+    margin: 0 5px;
+    padding: 3px 0 0 0;
+
+}
+.contactform form div input{
+    width: 30vw;
+    border-radius: 5px;
+    margin: 6px 0;
+    padding: 3px;
+}
+#form-check{
+    flex-direction: row;
+}
+#form-check input{
+    width: 25px;
+    margin: 5px 0;
+
+}
+.btn-sm{
+    font-size: 17px;
+      padding: 14px 19px;
+      margin:12px 0 ;
+}
+
+
+
+
