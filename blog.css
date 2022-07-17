@@ -1,0 +1,59 @@
+*{
+	background-color: black;
+
+}
+.blogItem{
+	
+	margin: 20px;
+	font-family: 'Source Sans Pro', sans-serif;
+
+}
+.blogItem h1{
+	font-size: 50px;
+	color: red;
+}
+.blogItem h2{
+	text-align: left;
+	padding-left: 30px;
+	font-size: 40px;
+	margin: 5px;
+	padding: 10px;
+	color: blueviolet;
+}
+
+.blogItem h3{
+	text-align: left;
+    padding-left: 50px;
+    font-size: 30px;
+    color: skyblue;
+
+}
+.blogItem h4{
+	text-align: left;
+    padding-left: 50px;
+    font-size: 25px;
+    color: darkblue;
+
+}
+.blogItem h5{
+	text-align: left;
+    padding-left: 50px;
+    font-size: 20px;
+    color: green;
+
+}
+.blogItem h6{
+	text-align: left;
+    padding-left: 50px;
+    font-size: 18px;
+    color: rgb(100, 4, 80);
+
+}
+.blogItem p{
+	font-size: 15px;
+	padding: 10px;
+	color: white;
+	padding-left: 90px;
+	
+}
+
